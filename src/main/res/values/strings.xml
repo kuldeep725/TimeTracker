@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TimeTracker</string>
+    <string name="add_time">TIME :</string>
+    <string name="add_note">NOTE :</string>
+    <string name="addButton">ADD</string>
+    <string name="save_text">SAVE</string>
+    <string name="cancel_text">CANCEL</string>
+</resources>
